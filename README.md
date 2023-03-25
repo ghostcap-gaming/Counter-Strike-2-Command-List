@@ -5,6 +5,8 @@ It aims to help players, server administrators, and modders familiarize themselv
 
 Please join <https://www.ghostcap.com/> or <https://alliedmods.net/> if you're interested in learning more about the technical details of Counter-Strike 2.
 
+If you want a nice front end where you can quickly search commands, then visit this blog post <https://www.ghostcap.com/cs2-commands/>
+
 ## How to enable sv_cheats?
 You can set sv_cheats to 1 on the server, but clients will receive a message saying "[Server] Cheats cannot be enabled on this server," unless they launch the game with the -dev option. 
 
