@@ -22,4 +22,4 @@ If you use this table on your website then please link to the repository.
 ## Disclaimer
 This repository is a community-driven resource and is not affiliated with the official Counter-Strike 2 developers or the game itself. Please use the information provided at your own risk and always be mindful of potential game updates that may alter the commands or their functions.
 
-## All commands current as of 25/3/2023
+## All commands current as of 26/3/2023
