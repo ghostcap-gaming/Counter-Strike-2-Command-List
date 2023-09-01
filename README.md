@@ -3,7 +3,7 @@ This repository contains a comprehensive list of all commands, cvars, and convar
 
 It aims to help players, server administrators, and modders familiarize themselves with the game's configurable settings and controls to optimize gameplay, customize user experience, and manage servers. 
 
-Please join <https://www.ghostcap.com/> or <https://alliedmods.net/> if you're interested in learning more about the technical details of Counter-Strike 2.
+Please join <https://www.ghostcap.com/> if you're interested in learning more about the technical details of Counter-Strike 2.
 
 If you want a nice front end where you can quickly search commands, then visit this blog post <https://www.ghostcap.com/cs2-commands/>
 
